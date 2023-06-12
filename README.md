@@ -1,6 +1,8 @@
 # Test git
 
-This repository contains our initial experiments with git. So far, we've covered the following git commands:
+This repository contains our initial experiments with git. 
+
+So far, we've covered the following git commands:
 
 ```
 git config
